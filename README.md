@@ -1,5 +1,8 @@
 # جلسه سوم: معرفی و کار با Android Studio
 
+![image](https://github.com/user-attachments/assets/b73e445b-e8cd-49f0-9615-25938b023058)
+
+
 ## مقدمه
 در این جلسه، با محیط توسعه اندروید یعنی Android Studio آشنا می‌شویم، نحوه‌ی ایجاد یک پروژه جدید را بررسی می‌کنیم و درباره‌ی مفاهیمی مانند SDK، JDK و Gradle توضیح می‌دهیم.
 
